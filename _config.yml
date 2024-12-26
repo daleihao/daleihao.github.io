@@ -21,7 +21,7 @@ repository               : "daleihao/daleihao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "dalei_hao.jpg"
   name             : "Dalei Hao"
   pronouns         : # example: "she/her"  
   bio              : "Earth Scientist, PNNL"
