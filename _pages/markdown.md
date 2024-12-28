@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Emailcs"
+title: "Emails"
 author_profile: true
 redirect_from: 
   - /md/
