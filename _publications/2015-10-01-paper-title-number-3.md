@@ -3,7 +3,7 @@ title: "A cleaner snow future mitigates Northern Hemisphere snowpack loss from w
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Our work highlights a cleaner snow future and its benefits for future water supply from snowmelt especially under the sustainable development pathway of SSP126.'
 date: 2023-10-02
 venue: 'Nature Communications'
 slidesurl: '[https://www.nature.com/articles/s41467-023-41732-6#citeas]'
