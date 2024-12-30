@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Our work highlights a cleaner snow future and its benefits for future water supply from snowmelt especially under the sustainable development pathway of SSP126.'
 date: 2023-10-02
 venue: 'Nature Communications'
-slidesurl: '[https://www.nature.com/articles/s41467-023-41732-6#citeas]'
-paperurl: '[https://www.nature.com/articles/s41467-023-41732-6#citeas]'
+slidesurl: 'https://www.nature.com/articles/s41467-023-41732-6#citeas'
+paperurl: 'https://www.nature.com/articles/s41467-023-41732-6#citeas'
 citation: 'Hao, D., Bisht, G., Wang, H. et al. A cleaner snow future mitigates Northern Hemisphere snowpack loss from warming. Nat Commun 14, 6074 (2023). https://doi.org/10.1038/s41467-023-41732-6'
 ---
 
