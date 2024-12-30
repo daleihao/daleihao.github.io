@@ -3,7 +3,7 @@ title: "Structural complexity biases vegetation greenness measures"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Our work highlights the importance of considering shadow impacts to accurately interpret remotely sensed VIs and solar-induced chlorophyll fluorescence for assessing global vegetation and its changes.'
 date: 2023-09-14
 venue: 'Nature Ecology & Evolution'
 slidesurl: 'https://www.nature.com/articles/s41559-023-02187-6'
