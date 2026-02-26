@@ -1278,7 +1278,7 @@
   /* Scroll Fade-In */
   const io = new IntersectionObserver(entries => {
     entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); } });
-  }, { threshold: 0.08 });
+  }, { threshold: 0 });
   document.querySelectorAll('.fade-in').forEach(el => io.observe(el));
 
   /* Publication Filter + Show More */
